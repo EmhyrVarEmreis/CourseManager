@@ -1,2 +1,2 @@
 # CourseManager
-Wep application to manage courses
+Wep application to manage courses.
